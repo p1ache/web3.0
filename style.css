@@ -58,18 +58,9 @@ body {
         margin-left: 50px;
     }
 }
-#ja {
-    padding-left: 10px;
-}
-#ja {
+a {
     color: black;
 }
-#en {
-    color: black;
-}
-#ja:hover {
-    color: mediumblue;
-}
-#en:hover {
+a:hover {
     color: mediumblue;
 }
